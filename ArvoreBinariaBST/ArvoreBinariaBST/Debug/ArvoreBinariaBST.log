@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+c:\users\vinicius borin\google drive\trabalhodocencia\uninter_rota_estruturadedados\aulas práticas\pratica3\arvorebinariabst\arvorebinariabst\origem.cpp(15): warning C4101: 'pos': variável local não referenciada
+c:\users\vinicius borin\google drive\trabalhodocencia\uninter_rota_estruturadedados\aulas práticas\pratica3\arvorebinariabst\arvorebinariabst\origem.cpp(15): warning C4101: 'res': variável local não referenciada
+c:\users\vinicius borin\google drive\trabalhodocencia\uninter_rota_estruturadedados\aulas práticas\pratica3\arvorebinariabst\arvorebinariabst\origem.cpp(123): warning C4715: 'Buscar': nem todos os caminhos de controle retornam um valor
+  ArvoreBinariaBST.vcxproj -> C:\Users\Vinicius Borin\Google Drive\TrabalhoDocencia\UNINTER_Rota_EstruturaDeDados\Aulas Práticas\Pratica3\ArvoreBinariaBST\Debug\ArvoreBinariaBST.exe
